@@ -1,5 +1,5 @@
 # Healthcare-Analytics-and-AI-Implementation
-Hospital Operations, Cost &amp; Patient Flow  Intelligence 
+# Healthcare Operations: Statistical Investigation & Insight Discovery.
 
 # Client Scenario 
 A healthcare organisation wants to improve its understanding of hospital operations, encounter costs, 
